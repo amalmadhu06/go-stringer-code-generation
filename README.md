@@ -1,0 +1,1 @@
+# go-stringer-code-generation
